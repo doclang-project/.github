@@ -1,7 +1,7 @@
 # Welcome to DocLang ISO format
 
 
-<img align="left" width="200" height="200" src="./logo.svg">
+<img align="left" width="240" height="162" src="./DocLang.svg" alt="DocLang logo">
 
 **DocLang is the AI-native markup format for unstructured content — documents, images, audio, and video alike.** It is engineered from the ground up around a single principle: one DocLang token maps cleanly to one LLM token. That makes DocLang the most efficient way to read, write, and reason about real-world content with modern AI.
 
