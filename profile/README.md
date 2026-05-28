@@ -40,6 +40,7 @@ The founding members of the standard are:
 3. RedHat
 4. HumanSignal
 5. Nvidia
+6. Forgis
 
 We are open to accept invitations to join the DocLang governing team.
 
